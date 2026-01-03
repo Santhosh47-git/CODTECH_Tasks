@@ -35,4 +35,5 @@ Description: A GPT-based model that generates coherent, human-like paragraphs ba
 
 Key Features: Adjustable creativity via temperature sampling and interactive prompt loop.
 
+
 Technology: GPT-2, Transformers library.
